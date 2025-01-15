@@ -10,6 +10,8 @@ import java.awt.Color;
  *
  * @author David J. Barnes, Michael Kölling & Jeffery Raphael
  * @version 2022.01.06 (1)
+ * 
+ * pushing to github repo
  */
 
 public class Simulator {
